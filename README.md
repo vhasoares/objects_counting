@@ -18,7 +18,7 @@ A princípio estão sendo investigadas as Técnicas Índice de Vegetação ExG e
 
 Os testes iniciais estão sendo feitos utilizando apenas 1/4 da resolução total da imagem. Além disso, estão sendo investigados os usos do Ajuste de Gamma e Equalização de Histograma para pré-processamento das imagens, a fim de melhorar os resultados obtidos.
 
-Para detecção dos pontos de interesse e aprendizado de característica, uma função para detecção de bordas foi implementada. Antes do aplicacção da detecção de bordas, um filtro de média 3x3 é aplicado para suavizar as transições das irregularidades na vegetação e terreno.
+Para detecção dos pontos de interesse e aprendizado de característica, uma função para detecção de bordas foi implementada. Antes da aplicacção da detecção de bordas, um filtro de média 3x3 é aplicado para suavizar as transições das irregularidades na vegetação e terreno.
 
 No notebook "Projeto Parcial - Notebook.ipynb", são mostrados e explicados os métodos utilizados até aqui e quais os métodos deverão ser implementados de agora em diante.
 
